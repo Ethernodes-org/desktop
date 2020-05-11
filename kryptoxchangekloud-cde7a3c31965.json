@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kryptoxchangekloud",
+  "private_key_id": "cde7a3c319651d11dffa4c2ad0b9c499d79c8818",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDW83NymXAfaysi\nClwoJGRtvopwM6AWqkADUCnPtppNmNnVvRAfgpFL5B5DIQdDlF8bwyWP7nwNuMFF\nTRqBh8sijs7HlIx4n7ROmc8DJhYZPhVV98WXnbf2jpdLmWKj6i1Gd1otUIaJueZk\nsDyjkPaCsPUCI8iITvv0yGdyAhB4OKyNkvCnJX/1e72hsOG30ZCETIAH6v13KpJD\noHXVuQEHQd9xmE1cMlOWQFUiIz4mFPMR+hPr3NtJsrOo8xQu2gM57KUuMBkoB9T1\n+KNw3Kry3I14SGQ9C1MdWWIsXRBjB7MdCyfJJJHl1bjE/nTp+tQwB3WQ3TjnK4vc\nqqgWJmGjAgMBAAECggEAW4BC8tOyUQ2TzOfQFx52yejEkcLIMR3EJiTnx44Z3VJl\n2ICk7mTsaPvwje7vYqs0WWMXCFAi6sxtKY0K7Xza0hksmPT5XxfM73C2GMcLvS8a\ncgAJUuNGvmQwr3PZ86DqKQcBkiynONWz58TF63L4HOYrRf/pi2zkAG2W64dJb4MY\nx3Hs9JE2eRzwQZxcqvi3V7U2GoCSHOTj78kLnKoFPCMQ7pzSjHDB92T0O3JcJVFQ\nFF6TFwfuMy1L7AMvpn9ocljauPsRd48sdUbfe4eK365wmZkbipyqHAJFnFNP340p\nNangipd6hbxwi15TfyoujbSeRfCcsDVSHr+v0f9RoQKBgQDzWANS916S2F1DSOjL\nvGBYzFuCvfkNbzRmtuDcSDnOAHS/eDEt+pBQ+jMgdkgPwMNHe34J44lzb4Sar056\nL5tCGN+5jWKaYeI55bgwJ7TmMypJcl8cRBr9k8pvBe784iJnGfKA8LDRQBdeZs94\ndH4yQc6tvBixePxeBojS8AoSaQKBgQDiIWdF+aUE/MmHl6IqugoSxVodWnl761c6\nrzlR0LBimFDnpzQzr6M8b+e7tLJZuqnXb16DzjGgKohA71+sId3hgVpSXgm5Z5tf\nvmx9Uig0j06SbMe0LobDdoqopsw5GZkSW+5dk+e2UngYxw98N0GYS+aieoBquC6I\noEAzbc26KwKBgQDWh8Q+c4iz6v2loPRjEQrbniYbCEI1vtEysI1ihmY3n51NY7fv\nshNi4IEMYFq9UJKYRV3jd+6ojysXd++2tpuo1Ob/3Y6NTjg0FLqh8Y+A1qC0KZmC\nAOTOo2l3IYME/JOZ031AgXFQuLEhb3/+0Kykv/FmpwoaA/BxME+Vrzsh6QKBgE9z\nEQfi6HnSHzSGsDF23+csc7bwfNJvI1y5B9iZC//4KCTb+FlYkm+/mZm3qRohnV7W\nAE0q+wCdMPYvpFukIoMCoati4uPDZTHEg/WcEgg1eZO0qI3D8xFl6t3KjOJa/g8X\nQa6bMsQ6QXvjJKut9lv9/vCDPe9A+wiB1Uy8fZW1AoGAAwNbT1IUkSQgW5/LJFGA\nboI7zCAGsbrlH558IGMNSVOLS7l5XlBd1Whv0Ip7qY8/UK7pfkW620ze09tM7u/Z\n+uZnCJJK0X32+KU5XMRQCZg64v6sAu61gwU4PM520W67Jex6t4Y7Ae9phbTRYost\nLF2xY5NwT6s24YzAXzxZJ70=\n-----END PRIVATE KEY-----\n",
+  "client_email": "omni-financial-services-inc@kryptoxchangekloud.iam.gserviceaccount.com",
+  "client_id": "116910166156673667438",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/omni-financial-services-inc%40kryptoxchangekloud.iam.gserviceaccount.com"
+}
